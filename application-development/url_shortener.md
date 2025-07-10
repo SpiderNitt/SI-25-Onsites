@@ -64,7 +64,5 @@ Allow users to interact with the service via a clean frontend interface.
 - URL expiration or usage limits.
 - User login and dashboard to manage created links.
 - QR code generation for shortened links.
-- Rate limiting to prevent abuse.
-- Custom aliases for short URLs.
 
 
