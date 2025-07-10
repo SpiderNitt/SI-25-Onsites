@@ -27,7 +27,7 @@ Allow users to track financial transactions by date, amount, and category.
 - `DELETE /transaction/:id`: Delete a specific transaction.
 - Categorize by: Food, Rent, Utilities, Salary, etc.
 
-### 3. Monthly Charts & Graphs (Chart.js)
+### 3. Optional : Monthly Charts & Graphs (Chart.js)
 
 **Functionality:**  
 Visualize financial trends using Chart.js in the frontend.

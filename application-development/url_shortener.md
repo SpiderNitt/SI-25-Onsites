@@ -47,7 +47,7 @@ Provide RESTful endpoints for frontend/backend communication.
 - `GET /:shortId` – Redirects to the original URL.
 - (Optional) `GET /analytics/:shortId` – Returns metadata like usage count, timestamps.
 
-### 5. Basic UI (Optional)
+### 5. Basic UI
 
 **Functionality:**  
 Allow users to interact with the service via a clean frontend interface.
@@ -64,7 +64,5 @@ Allow users to interact with the service via a clean frontend interface.
 - URL expiration or usage limits.
 - User login and dashboard to manage created links.
 - QR code generation for shortened links.
-- Rate limiting to prevent abuse.
-- Custom aliases for short URLs.
 
 
