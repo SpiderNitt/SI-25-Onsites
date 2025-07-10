@@ -14,7 +14,7 @@ Enable multiple users to collaboratively edit code in real time within shared wo
 **Requirements:**
 - Real-time synchronization using WebSockets.
 - Conflict-free collaborative editing (e.g., operational transformation or CRDTs).
-- Workspace creation and shareable invite links.
+- Creation of workspace.
 - Presence indicators to show active collaborators.
 
 ### 2. Authentication & Authorization
