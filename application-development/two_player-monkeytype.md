@@ -45,7 +45,7 @@ Display results after the session ends.
 **Requirements:**
 - Calculate WPM (Words Per Minute) for each player.
 - Display WPM on the results screen.
-- Accuracy tracking is optional and not required.
+- Accuracy tracking is not required.
 
 ### 5. Clean and Minimal UI
 
