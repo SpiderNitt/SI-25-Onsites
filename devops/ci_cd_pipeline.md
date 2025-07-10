@@ -2,7 +2,7 @@
 
 ## Objective
 
-Building upon the foundational Task 1, this task expands the DevOps workflow to include automation, performance validation, and infrastructure-as-code practices. The objective is to ensure the application is continuously delivered, reliably deployed, performance-tested, and monitored in a scalable and maintainable way.
+Building upon the foundational Microservice Application task, this task expands the DevOps workflow to include automation, performance validation, and infrastructure-as-code practices. The objective is to ensure the application is continuously delivered, reliably deployed, performance-tested, and monitored in a scalable and maintainable way.
 
 ---
 
