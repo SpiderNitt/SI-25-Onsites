@@ -1,4 +1,4 @@
-# Task 2: End-to-End Implementation of a Dockerized Microservices Application with Automated Backups
+# Implementation of a Dockerized Microservices Application with Automated Backups
 
 ## Problem Statement
 
