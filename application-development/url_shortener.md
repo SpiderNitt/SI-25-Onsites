@@ -47,7 +47,7 @@ Provide RESTful endpoints for frontend/backend communication.
 - `GET /:shortId` – Redirects to the original URL.
 - (Optional) `GET /analytics/:shortId` – Returns metadata like usage count, timestamps.
 
-### 5. Basic UI (Optional)
+### 5. Basic UI
 
 **Functionality:**  
 Allow users to interact with the service via a clean frontend interface.
