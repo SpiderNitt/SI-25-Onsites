@@ -12,7 +12,7 @@ The goal is to build a real-time collaborative coding platform that allows users
 Enable multiple users to collaboratively edit code in real time within shared workspaces.
 
 **Requirements:**
-- Real-time synchronization using WebSockets or WebRTC.
+- Real-time synchronization using WebSockets.
 - Conflict-free collaborative editing (e.g., operational transformation or CRDTs).
 - Workspace creation and shareable invite links.
 - Presence indicators to show active collaborators.
